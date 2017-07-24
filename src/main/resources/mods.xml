@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<mets ID="DSpace_ITEM_1721.1-8770" OBJID="hdl:1721.1/8770" TYPE="DSpace ITEM" PROFILE="DSpace METS SIP Profile 1.0" xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+    <dmdSec ID="dmdSec_1">
+        <mdWrap MDTYPE="MODS">
+            <xmlData xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-1.xsd"><mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-1.xsd">
+                <mods:name>
+                    <mods:role>
+                        <mods:roleTerm type="text">advisor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Sanjoy K. Mitter.</mods:namePart>
+                </mods:name>
+                <mods:name>
+                    <mods:role>
+                        <mods:roleTerm type="text">author</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Sahai, Anant</mods:namePart>
+                </mods:name>
+                <mods:name>
+                    <mods:role>
+                        <mods:roleTerm type="text">other</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Massachusetts Institute of Technology. Dept. of Electrical Engineering and Computer Science.</mods:namePart>
+                </mods:name>
+                <mods:extension>
+                    <mods:dateAccessioned encoding="iso8601">2005-08-23T15:11:08Z</mods:dateAccessioned>
+                </mods:extension>
+                <mods:extension>
+                    <mods:dateAvailable encoding="iso8601">2005-08-23T15:11:08Z</mods:dateAvailable>
+                </mods:extension>
+                <mods:originInfo>
+                    <mods:copyrightDate encoding="iso8601">2001</mods:copyrightDate>
+                </mods:originInfo>
+                <mods:originInfo>
+                    <mods:dateIssued encoding="iso8601">2001</mods:dateIssued>
+                </mods:originInfo>
+                <mods:identifier type="uri">http://hdl.handle.net/1721.1/8770</mods:identifier>
+                <mods:note>Thesis (Ph.D.)--Massachusetts Institute of Technology, Dept. of Electrical Engineering and Computer Science, 2001.</mods:note>
+                <mods:note>Includes bibliographical references (p. 171-175).</mods:note>
+                <mods:abstract>We study the reliable communication of delay-sensitive bit streams through noisy channels. To bring the issues into sharp focus, we will focus on the specific problem of communicating the values of an unstable real-valued discrete-time Markov random process through a finite capacity noisy channel so as to have finite average squared error from end-to-end. On the source side, we give a coding theorem for such unstable processes that shows that we can achieve the rate-distortion bound even in the infinite horizon case if we are willing to tolerate bounded delays in encoding and decoding. On the channel side, we define a new parametric notion of capacity called anytime capacity that corresponds to a sense of reliable transmission that is stronger than the traditional Shannon capacity sense but is less demanding than the sense underlying zero-error capacity. We show that anytime capacity exists for memoryless channels without feedback and is connected to standard random coding error exponents. The main result of the thesis is a new source/channel separation theorem that encompasses unstable processes and establishes that the stronger notion of anytime capacity is required to be able to deal with delay-sensitive bit streams. This theorem is then applied in the control systems context to show that anytime capacity is also required to evaluate channels if we intend to use them as part of a feedback link from sensing to actuation. Finally, the theorem is used to shed light on the concept of "quality of service requirements" by examining a toy mathematical example for which we prove the absolute necessity of differentiated service without appealing to human preferences.</mods:abstract>
+                <mods:note type="statement of responsibility">by Anant Sahai.</mods:note>
+                <mods:physicalDescription>
+                    <mods:extent>175 p.</mods:extent>
+                </mods:physicalDescription>
+                <mods:physicalDescription>
+                    <mods:extent>13456629 bytes</mods:extent>
+                </mods:physicalDescription>
+                <mods:physicalDescription>
+                    <mods:extent>13456384 bytes</mods:extent>
+                </mods:physicalDescription>
+                <mods:physicalDescription>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                </mods:physicalDescription>
+                <mods:physicalDescription>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                </mods:physicalDescription>
+                <mods:language>
+                    <mods:languageTerm authority="rfc3066">eng</mods:languageTerm>
+                </mods:language>
+                <mods:originInfo>
+                    <mods:publisher>Massachusetts Institute of Technology</mods:publisher>
+                </mods:originInfo>
+                <mods:accessCondition type="useAndReproduction">M.I.T. theses are protected by copyright. They may be viewed from this source for any purpose, but reproduction or distribution in any format is prohibited without written permission. See provided URL for inquiries about permission.</mods:accessCondition>
+                <mods:accessCondition xmlns:xlink="http://www.w3.org/1999/xlink" xlink:simpleLink="http://dspace.mit.edu/handle/1721.1/7582">http://dspace.mit.edu/handle/1721.1/7582</mods:accessCondition>
+                <mods:subject>
+                    <mods:topic>Electrical Engineering and Computer Science.</mods:topic>
+                </mods:subject>
+                <mods:titleInfo>
+                    <mods:title>Anytime information theory</mods:title>
+                </mods:titleInfo>
+                <mods:genre>Thesis</mods:genre>
+            </mods:mods></xmlData>
+        </mdWrap>
+    </dmdSec>
+    <amdSec ID="amd_5">
+        <techMD ID="techMD_6">
+            <mdWrap MDTYPE="PREMIS">
+                <xmlData xmlns:premis="http://www.loc.gov/standards/premis" xsi:schemaLocation="http://www.loc.gov/standards/premis http://www.loc.gov/standards/premis/PREMIS-v1-0.xsd"><premis:premis xmlns:premis="http://www.loc.gov/standards/premis">
+                    <premis:object>
+                        <premis:objectIdentifier>
+                            <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                            <premis:objectIdentifierValue>http://dspace.mit.edu/bitstream/1721.1%2F8770/2/48125578-MIT.pdf</premis:objectIdentifierValue>
+                        </premis:objectIdentifier>
+                        <premis:objectCategory>File</premis:objectCategory>
+                        <premis:objectCharacteristics>
+                            <premis:fixity>
+                                <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                                <premis:messageDigest>b19f7b781d0498d40f2fb1962c86105f</premis:messageDigest>
+                            </premis:fixity>
+                            <premis:size>8324168</premis:size>
+                            <premis:format>
+                                <premis:formatDesignation>
+                                    <premis:formatName>application/pdf</premis:formatName>
+                                </premis:formatDesignation>
+                            </premis:format>
+                        </premis:objectCharacteristics>
+                        <premis:originalName>48125578-MIT.pdf</premis:originalName>
+                    </premis:object>
+                </premis:premis></xmlData>
+            </mdWrap>
+        </techMD>
+    </amdSec>
+    <amdSec ID="amd_7">
+        <techMD ID="techMD_8">
+            <mdWrap MDTYPE="PREMIS">
+                <xmlData xmlns:premis="http://www.loc.gov/standards/premis" xsi:schemaLocation="http://www.loc.gov/standards/premis http://www.loc.gov/standards/premis/PREMIS-v1-0.xsd"><premis:premis xmlns:premis="http://www.loc.gov/standards/premis">
+                    <premis:object>
+                        <premis:objectIdentifier>
+                            <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                            <premis:objectIdentifierValue>http://dspace.mit.edu/bitstream/1721.1%2F8770/4/48125578-MIT.pdf.txt</premis:objectIdentifierValue>
+                        </premis:objectIdentifier>
+                        <premis:objectCategory>File</premis:objectCategory>
+                        <premis:objectCharacteristics>
+                            <premis:fixity>
+                                <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                                <premis:messageDigest>ec307df9cee4aef8ba9d49f28d3afcd2</premis:messageDigest>
+                            </premis:fixity>
+                            <premis:size>337624</premis:size>
+                            <premis:format>
+                                <premis:formatDesignation>
+                                    <premis:formatName>text/plain</premis:formatName>
+                                </premis:formatDesignation>
+                            </premis:format>
+                        </premis:objectCharacteristics>
+                        <premis:originalName>48125578-MIT.pdf.txt</premis:originalName>
+                    </premis:object>
+                </premis:premis></xmlData>
+            </mdWrap>
+        </techMD>
+    </amdSec>
+    <fileSec>
+        <fileGrp USE="CONTENT">
+            <file ID="bitstream_2" MIMETYPE="application/pdf" SEQ="2" SIZE="8324168" CHECKSUM="b19f7b781d0498d40f2fb1962c86105f" CHECKSUMTYPE="MD5" ADMID="amd_5" GROUPID="GROUP_bitstream_2">
+                <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_1037610.pdf"/>
+            </file>
+        </fileGrp>
+        <fileGrp USE="TEXT">
+            <file ID="bitstream_4" MIMETYPE="text/plain" SEQ="4" SIZE="337624" CHECKSUM="ec307df9cee4aef8ba9d49f28d3afcd2" CHECKSUMTYPE="MD5" ADMID="amd_7" GROUPID="GROUP_bitstream_2">
+                <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_1038778.txt"/>
+            </file>
+        </fileGrp>
+    </fileSec>
+    <structMap ID="struct_2" LABEL="DSpace Object" TYPE="LOGICAL">
+        <div ID="div_3" DMDID="dmdSec_1" TYPE="DSpace Object Contents">
+            <div ID="div_4" TYPE="DSpace BITSTREAM">
+                <fptr FILEID="bitstream_2"/>
+            </div>
+        </div>
+    </structMap>
+</mets>
+
